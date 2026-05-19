@@ -1,0 +1,142 @@
+[
+  {
+    "user_query": "손이 크고, 눈썹이 진한 사람 그림",
+    "rewritten_queries": [
+      "손이 큰 사람 그림",
+      "눈썹이 진한 사람 그림"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "■ 손을 주머니에 넣고 있다 자신을 감추고자 하는 표현이다 범죄자 또는 범법행위를 저지른 경우가 과거에 존재한다 극단적으로 큰 손을 그린다 자신의 무언가가 옳지 않다, 또는 자신이 모자라다는 느낌을 갖는다 충동적으로 행동한다 손을 작게 그린다 현재 삶이 불안정하다고 느낀다 무력한 기분을 가지고 있다 기운이 없다",
+        "metadata": {
+          "chunk_index": "24-6",
+          "category": "사람",
+          "query": "손이 큰 사람 그림"
+        }
+      },
+      {
+        "content": "■ 빽빽하고 덥수룩한 눈썹을 그린다 본능에 따라 행동한다 거칠고 자제력이 없다 치켜올린 눈썹을 그린다 무언가를 경멸한다 타인에게 있어서 거만한 사람으로 보일 수 있다 항상 무언가를 의심한다",
+        "metadata": {
+          "category": "사람",
+          "chunk_index": "22-17",
+          "query": "눈썹이 진한 사람 그림"
+        }
+      }
+    ],
+    "final_answer": "The individual depicted with a large hand and dark eyebrows suggests a potential for impulsivity, aggression, or a tendency towards negative behaviors. The dark eyebrows could indicate a guarded personality or difficulty expressing emotions openly. This pattern aligns with the documentation suggesting an extreme reaction to perceived threats or challenges, potentially indicative of a heightened level of anxiety or stress. The overall impression points toward a need for support in managing emotional responses and seeking healthier coping mechanisms."
+  },
+  {
+    "user_query": "손가락을 자세히 나타냈어",
+    "rewritten_queries": [
+      "손가락을 자세히 나타낸 그림",
+      "손가락의 세부 묘사"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "* 손가락 손에서 이어지는 손가락은 매우 자세하게 내가 가진 에너지를 발산하는 장소이다. 우리는 손가락으로 무언가를 만들고, 부술 수 있다. 이처럼 손에 담긴 에너지가 건설적인 에너지인지, 아니면 공격적이고 파괴적인 에너지인지를 파악할 필요가 있다 많은 아동은 손보다 손가락을 일반적으로 많이 그리는 양상이 보인다",
+        "metadata": {
+          "chunk_index": "24-8",
+          "category": "사람",
+          "query": "손가락을 자세히 나타낸 그림"
+        }
+      }
+    ],
+    "final_answer": "The detailed depiction of the hand, particularly its fingers, suggests a heightened awareness of interpersonal relationships and potentially a greater sensitivity to social cues. This could indicate a higher level of emotional intelligence or a tendency towards introspection regarding human interactions. The individual may be more attuned to subtle nuances in communication and potentially exhibit traits associated with empathy and understanding."
+  },
+  {
+    "user_query": "창문이 크게 있어",
+    "rewritten_queries": [
+      "창문이 크게 있는 그림",
+      "큰 창문이 있는 공간의 묘사"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "■ 창문의 갯수가 매우 많다 '나'라는 존재를 다른 사람 앞에서 과시하고 표현하고 싶다는 표현일 수 있다. 성적인 표현이 존재하는 경우, 성적으로 노출증 및 사회적으로 옷을 적절히 입지 않고 자신의 신체 일부를 드러냄으로써 성적인 만족감을 가지는 경우가 존재한다. 단 이것이 성적기호를 결정짓는 판단기준이 되어서는 안 된다 많은 사람과 대인관계를 가지고 있다는 표시가 될 수 있다 만약 창문에 어떠한 장식(창문 턱, 덧문, 또는 창틀)이 없는 경우, 세상을 살아감에 있어 당당히 나아갈 준비가 되어있다는 자신감의 표시가 된다 만약 창문에 어떠한 장식(창문 턱, 덧문, 또는 창틀)이 많은 경우, 세상을 살아감에 있어서 과도한 걱정 또는 염려가 존재한다는 걱정의 표시가 된다",
+        "metadata": {
+          "chunk_index": "5-3",
+          "category": "집",
+          "query": "창문이 크게 있는 그림"
+        }
+      }
+    ],
+    "final_answer": "The presence of numerous windows suggests a need for self-expression, possibly related to social interaction or a desire to be noticed. However, without additional context about the specific number and type of windows depicted, it’s difficult to determine if this reflects genuine openness or anxiety regarding interpersonal relationships. The individual may be attempting to project an image of themselves but also experiencing discomfort with direct confrontation. Further exploration would require assessing the overall drawing style and any accompanying narrative elements."
+  },
+  {
+    "user_query": "창문이 있고, 굴뚝이 있는 집",
+    "rewritten_queries": [
+      "창문이 있는 집 그림",
+      "굴뚝이 있는 집 그림"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "4. 창문 창문은 집의 문 보다 덜 직접적인, 즉 나의 2차적인 인간관계를 표현하는 경우일 수 있다. '내가 어떻게 외부환경을 인식하는가?' 또는 '대인관계에서 나는 어떤 사람을 바라고 있는가?'를 나타내는 지표이다. 마치 사람의 '두 눈'처럼 세상을 바라다보고 관찰하는 역할을 담당하고 있다.",
+        "metadata": {
+          "chunk_index": "5-1",
+          "category": "집",
+          "query": "창문이 있는 집 그림"
+        }
+      },
+      {
+        "content": "■ 많은 굴뚝을 그린다 자신이 성적으로 충동적임에 대하여 염려하고 있다 나 자신이 성적으로 만족스럽지 못하다는 표시가 될 수 있다. (이와 같은 경우, 자신과 다른 다른 성별에 대하여 부적절한 언급을 하는 경우가 있다.) 굴뚝을 그리지 않는다 가족 관계에서 따뜻함을 느끼지 못했다는 표시가 될 수 있다. 단, 자신이 살던 집 (단독주택, 아파트, 빌라 등)을 표현한 경우에는 해당되지 않을 수 있다. 성적 만족감을 느끼지 못한다는 표현일 수 있다. 단 이것은 극도로 심각한 수준은 아니다.",
+        "metadata": {
+          "chunk_index": "6-3",
+          "category": "집",
+          "query": "굴뚝이 있는 집 그림"
+        }
+      }
+    ],
+    "final_answer": "The presence of both a window (representing introspection) and a chimney (symbolizing external influences) within the HTP drawing suggests a complex internal landscape. The individual appears to be actively engaging with their environment while also reflecting on their own thoughts and feelings. This could indicate a need for self-examination or a desire to understand their motivations, potentially linked to anxiety about interpersonal relationships or a feeling of being overwhelmed by external pressures."
+  },
+  {
+    "user_query": "창문이 활짝 열려있어",
+    "rewritten_queries": [
+      "활짝 열린 창문이 있는 그림"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "■ 창문 밖까지 장식들이 창틀 및 장식들이 표현되어 있다 극도로 정신적인 어려움을 겪고 있는 상태일 수 있다. 단 이것이 정신적인 어려움을 판단하는 진단기준이 되어서는 안 된다. 창문을 강조하며 그린다 인간관계에 대한 과한 걱정이 존재한다 창문이 활짝 열려있다 성인의 경우, 담배를 피거나 또는 식습관에 문제가 있는 경우가 존재한다. 아동의 경우, 육아과정에 있어서 어머니의 젖 수유, 또는 식사에 대한 불만족스러운 경험이 존재한다. 타인에게 나를 표현하는 것에 있어서 과도하게 걱정하는 경우가 있다 나 스스로를 통제해야 한다는 생각에 사로잡혀 있다. (이와 같은 경우, '힘 겨루기' 또는 '힘 싸움'에 대한 주제가 그림에서 반복된다.)",
+        "metadata": {
+          "category": "집",
+          "chunk_index": "5-5",
+          "query": "활짝 열린 창문이 있는 그림"
+        }
+      }
+    ],
+    "final_answer": "The presence of an open window in the HTP drawing suggests a desire for connection with the outside world or a need for freedom from constraints. This could indicate underlying anxiety, a yearning for independence, or difficulty establishing stable relationships. It may also reflect a tendency towards escapism or a feeling of being trapped within their current circumstances. The individual might be struggling with feelings of isolation or a lack of control over their environment."
+  },
+  {
+    "user_query": "굴뚝에서 연기가 나고 있어",
+    "rewritten_queries": [
+      "굴뚝에서 연기가 나는 집 그림"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "■ 굴뚝에서 나오는 연기가 매우 짙다면, 환경에 대해 압력을 받고 있다. 굴뚝에서 나오는 연기가 매우 뭉게뭉게 양이 많다면, 가족과 생활함에 있어서 상당한 불안과 긴장을 가지고 있다는 표시가 될 수 있다. 굴뚝에서 나오는 연기가 단순하게 한 줄로 그려진 연기라면, 가정에서 받는 따뜻한 가족적인 정을 충분히 받지 못한다고 느끼는 경우가 있다.(이와 같은 경우, 가족적인 분위기를 표현함에 있어서 '차갑다' 또는 '냉랭하다'고 표현한다.)",
+        "metadata": {
+          "chunk_index": "6-6",
+          "category": "집",
+          "query": "굴뚝에서 연기가 나는 집 그림"
+        }
+      }
+    ],
+    "final_answer": "The presence of smoke from the chimney indicates potential stress or anxiety related to external influences. A detailed analysis would require examining the specific characteristics of the smoke line, its density, and how it interacts with other elements within the drawing. This could point towards difficulties coping with environmental pressures or feelings of being overwhelmed by external factors."
+  },
+  {
+    "user_query": "연기가 뭉게뭉게 그려져있다",
+    "rewritten_queries": [
+      "뭉게뭉게 그려진 연기 그림",
+      "연기가 뭉게뭉게 그려진 집 그림"
+    ],
+    "retrieved_docs": [
+      {
+        "content": "■ 굴뚝에서 나오는 연기가 매우 짙다면, 환경에 대해 압력을 받고 있다. 굴뚝에서 나오는 연기가 매우 뭉게뭉게 양이 많다면, 가족과 생활함에 있어서 상당한 불안과 긴장을 가지고 있다는 표시가 될 수 있다. 굴뚝에서 나오는 연기가 단순하게 한 줄로 그려진 연기라면, 가정에서 받는 따뜻한 가족적인 정을 충분히 받지 못한다고 느끼는 경우가 있다.(이와 같은 경우, 가족적인 분위기를 표현함에 있어서 '차갑다' 또는 '냉랭하다'고 표현한다.)",
+        "metadata": {
+          "category": "집",
+          "chunk_index": "6-6",
+          "query": "뭉게뭉게 그려진 연기 그림"
+        }
+      }
+    ],
+    "final_answer": "The presence of tightly clustered lines representing the person suggests a heightened sense of self-consciousness or difficulty with interpersonal relationships. This could indicate feelings of inadequacy, social anxiety, or a tendency towards isolation. The overall structure of the drawing points to a need for validation from others, possibly stemming from a fear of rejection or a lack of confidence in oneself."
+  }
+]
