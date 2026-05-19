@@ -3,6 +3,8 @@
 ## 💡 프로젝트 개요
 
 본 프로젝트는 **HTP(House-Tree-Person) 그림 검사 해석 문서**를 활용하여, 대화 문맥 이해 기반 쿼리 재생성, Multi-modal 데이터 추출, Reranker 파인튜닝, 그리고 최종적으로 **전문적인 심리 해석을 제공하는 RAG 챗봇 API 서버**를 구축하는 것을 목표로 합니다.
+#### Team Project
+👉 https://github.com/HJJunn/Art_Therapy
 
 ## ✨ 시스템 아키텍처 및 파이프라인 개요
 
